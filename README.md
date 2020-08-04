@@ -1,6 +1,6 @@
 ## kokoakuma
 
-#### Languages
+#### Languages and Frameworks
 ![](https://img.shields.io/badge/Python-1year-blue)
 ![](https://img.shields.io/badge/JavaScript-1.5year-yellow)
 ![](https://img.shields.io/badge/Vue.js-1year-lightgreen)
