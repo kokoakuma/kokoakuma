@@ -1,11 +1,11 @@
-## kokoakuma
+Hi,
+## :computer: I'm...
+- an Android developer
+## :blue_heart: I like...
+- Kotlin
+- TypeScript
+- Python
 
-#### Languages and Frameworks
-![](https://img.shields.io/badge/Python-1year-blue)
-![](https://img.shields.io/badge/JavaScript-1.5year-yellow)
-![](https://img.shields.io/badge/Vue.js-1year-lightgreen)
+## :link: Links
+- Blog: https://kokoakuma.hatenablog.com/
 
-#### Favorite things
-* books
-* hot springs
-* Sword Art Online
