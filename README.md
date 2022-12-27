@@ -7,6 +7,6 @@ I'm an Android developer.
 - Python
 - Go
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=kokoakuma&layout=compact&theme=dracula
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kokoakuma&layout=compact&theme=dracula)
 
 
